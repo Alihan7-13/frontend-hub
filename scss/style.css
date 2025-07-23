@@ -27,7 +27,7 @@ header ul {
 header ul li a {
   font-size: 16px;
   font-family: "Open Sans", sans-serif;
-  color: #000099;
+  color: #000;
 }
 @media (max-width: 728px) {
   header ul {
@@ -39,7 +39,7 @@ header button {
   padding: 16px 20px;
   width: 133px;
   height: 56px;
-  background: #000099;
+  background: #000;
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -163,7 +163,7 @@ section:nth-child(6) {
   max-width: 701px;
   font-size: 24px;
   font-weight: 400;
-  color: #000099;
+  color: #000;
 }
 @media (max-width: 1275px) {
   .hero-description {
@@ -219,7 +219,7 @@ section:nth-child(6) {
 }
 
 .white {
-  background-color: #000099;
+  background-color: #000;
   color: white;
   padding: 100px 0;
 }
@@ -317,7 +317,7 @@ section:nth-child(6) {
   gap: 20px;
   font-size: 16px;
   line-height: 26px;
-  color: #000099;
+  color: #000;
 }
 
 .projects-content {
@@ -327,7 +327,7 @@ section:nth-child(6) {
 }
 
 .white {
-  background-color: #000099;
+  background-color: #000;
 }
 @media (max-width: 960px) {
   .white {
@@ -403,7 +403,7 @@ section:nth-child(6) {
 }
 .contacts .description {
   margin: 32px 0;
-  color: #000099;
+  color: #000;
   line-height: 24px;
 }
 
@@ -432,7 +432,7 @@ section:nth-child(6) {
 .call-me .form input {
   width: 495px;
   height: 57px;
-  border: 1px solid #000099;
+  border: 1px solid #000;
   border-radius: 8px;
   padding: 16px 12px;
 }
@@ -449,7 +449,7 @@ section:nth-child(6) {
 .call-me .form textarea {
   width: 495px;
   height: 200px;
-  border: 1px solid #000099;
+  border: 1px solid #000;
   border-radius: 8px;
   padding: 16px 12px;
 }
